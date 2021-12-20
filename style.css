@@ -33,7 +33,7 @@ div:not(.info, .flyer) {
 
 body {
     background-color: aquamarine;
-    font-family: 'Rowdies';    
+    font-family: 'Fira Sans', sans-serif;
     position: relative;
     display: flex;
     cursor: none;
